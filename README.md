@@ -1,6 +1,7 @@
 # 3D U-Net in PyTorch
 
 *Author: Daniel Homola*
+updated for PyTorch implementation by: Matin Tahmasebpour
 
 __Main deliverables:__
 
