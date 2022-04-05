@@ -21,7 +21,7 @@ with minimal / lightweight code, only relying on core Pytorch and
 Python, i.e. without using Keras or other wrapper libraries.
 
 __Dataset used__
-- [NCI-ISBI 2013 Challenge: Automated Segmentation of Prostate Structures](https://wiki.cancerimagingarchive.net/display/DOI/NCI-ISBI+2013+Challenge%3A+Automated+Segmentation+of+Prostate+Structures)
+- [NCI-ISBI 2013 Challenge: Automated Segmentation of Prostate Structures](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=21267207)
 
 __Original Paper__
 - [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650)
